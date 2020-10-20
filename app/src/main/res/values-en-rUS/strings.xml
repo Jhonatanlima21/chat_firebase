@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+<string name="app_name">chat_com_firebase</string>
+<string name="dica_login">What is your login</string>
+<string name="dica_senha">And your password?</string>
+<string name="dica_me_cadastrar">Sign Up</string>
+<string name="data_nome">In %s, %s says:</string>
+<string name="digite_sua_mensagem">Digite a sua mensagem</string>
+
+</resources>
